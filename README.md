@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-initial repository
+This is the initial repository README file, and now it's done.
